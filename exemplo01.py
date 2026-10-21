@@ -20,3 +20,4 @@ print("-" * 25)
 print(f"Ordem inversa  : {numeros[::-1]}")
 print("=" * 25)
 
+nome = 'cls'
