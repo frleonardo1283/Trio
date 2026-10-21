@@ -20,3 +20,5 @@ print(f'Total: {total}')
 print(f'Media: {media}')
 print(f'Maior: {maior}')
 print(f'Menor: {menor}')
+
+print('\nFeito por: Richard')

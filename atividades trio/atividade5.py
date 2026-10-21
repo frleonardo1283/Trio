@@ -14,3 +14,5 @@ notas_acima = [n for n in notas if n > media]
 print(f'Notas: {notas}')
 print(f'media: {media}')
 print(f'Acima da media: {notas_acima}')
+
+print('\nFeito por: Richard')

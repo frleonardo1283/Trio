@@ -23,3 +23,5 @@ acima_2000 = sum(1 for salario in salarios if salario > 2000.00)
 print('\n--- RESULTADOS ---\n')
 print(f'Maior salário: R$ {maior_salario:.2f} ({nome_maior_salario})')
 print(f'Funcionários com salário acima de R$ 2.000,00: {acima_2000}')
+
+print('\nFeito por: Richard')
